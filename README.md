@@ -1,12 +1,12 @@
 ### Hi there 👋
 [![Visits Badge](https://badges.pufler.dev/visits/NarutoOp/NarutoOp)](https://badges.pufler.dev/visits/NarutoOp/NarutoOp)
 
-<img src="https://github.com/NarutoOp/NarutoOp/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
+<img src="https://github.com/NarutoOp/NarutoOp/blob/main/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 <a href="https://ko-fi.com/narutoop"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
 
-- 🔭 I’m currently working on as Software Engineer India
+- 🔭 I’m currently working as Software Engineer India
 - 🌱 I’m currently learning Game Development in Unity
-- 💬 Ask me about Animes and Chess
+- 💬 Ask me about animes and chess
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Appears 4 everywhere.
 
@@ -28,7 +28,7 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
   
-[![Stats](https://github-readme-stats.vercel.app/api?username=narutoop&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=narutoop&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/saved.gif" width="195">
+[![Stats](https://github-readme-stats.vercel.app/api?username=narutoop&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=narutoop&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/narutoop/narutoop/blob/main/assets/saved.gif" width="195">
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=narutoop&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=narutoop&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
 
