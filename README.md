@@ -9,6 +9,7 @@
 - 💬 Ask me about animes and chess
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Appears 4 everywhere.
+- Good Name Arpit Gupta
 
 #### 📫 How to reach me:
   
