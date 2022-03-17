@@ -4,9 +4,9 @@
 <img src="https://github.com/NarutoOp/NarutoOp/blob/main/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 <a href="https://ko-fi.com/narutoop"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
 
-- 🔭 
+- 🔭 I’m Arpit Gupta working as a Software Engineer.
 - 🌱 I’m currently learning App Development
-- 💬 Ask me about animes and chess
+- 💬 Ask me about animes, movies, tech and games.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Appears 4 everywhere.
 
